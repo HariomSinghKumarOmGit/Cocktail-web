@@ -1,19 +1,82 @@
+# 🍸 Aiova Flick
+
+**Aiova Flick** is an experimental **cocktail & art showcase** website that blends **cinematic UI**, **modern aesthetics**, and **smooth transitions**.  
+This project explores how visual storytelling and motion can elevate a digital cocktail menu into an immersive experience.
+
+Built as a **concept design**, Aiova Flick focuses on mood, movement, and visual impact rather than business constraints.
+
+---
+
+## ✨ Highlights
+
+- 🎨 **Art-driven visual experience**  
+- 🎥 **Smooth, cinematic transitions**  
+- ⚛️ **Component-based React architecture**  
+- 💎 **Dark, luxury, modern aesthetic**  
+- 📱 **Responsive across devices**  
+- ⚡ **Fast development & performance with Vite**
+
+---
+
+## 🛠 Tech Stack
+
+- **React** (Vite)  
+- **CSS** (custom styling)  
+- **JavaScript (ES6+)**  
+- **Modular component structure**
+
+No UI libraries. No shortcuts. Just controlled visuals.
+
+---
+
+## 🚀 Live Demo
+
+🔗 **Live Preview:**  
 https://cocktailweb-beta.vercel.app/
 
+---
 
-# React + Vite
+## 📸 Screenshots
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Screenshots showcasing the UI, transitions, and cocktail art visuals.
 
-Currently, two official plugins are available:
+/screenshots ├── home.png ├── menu.png ├── art-section.png
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*(Replace with actual images when ready)*
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📁 Project Structure
 
-## Expanding the ESLint configuration
+src/ ├── components/ ├── assets/ ├── pages/ ├── App.jsx ├── main.jsx └── index.css
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Structured for clarity, scalability, and creative freedom.
+
+---
+
+## 🧪 Project Type
+
+- **Concept / Experimental UI**  
+- Built to explore **motion, mood, and art-first design**  
+- Ideal as a **portfolio piece** or creative reference
+
+------
+
+## 📌 Getting Started
+
+```bash
+npm install
+npm run dev
+
+Runs locally on http://localhost:5173
+
+
+---
+
+📄 License
+
+This project is for experimental and educational purposes.
+Feel free to explore, remix, and learn .
+
+
+
